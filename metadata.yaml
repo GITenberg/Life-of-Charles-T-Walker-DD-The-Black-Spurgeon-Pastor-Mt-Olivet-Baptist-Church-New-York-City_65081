@@ -1,10 +1,13 @@
 _repo: Life-of-Charles-T-Walker-DD-The-Black-Spurgeon-Pastor-Mt-Olivet-Baptist-Church-New-York-City_65081
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: MacArthur, Robert Stuart
     gutenberg_agent_id: '53174'
     url: http://www.gutenberg.org/2009/agents/53174
+covers:
+- cover_type: archival
+  image_path: 65081-h/images/cover.jpg
 creator:
   author:
     agent_name: Floyd, Silas Xavier
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50795
     wikipedia: https://en.wikipedia.org/wiki/Silas_X._Floyd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65081#Life-of-Charles-T-Walker-DD-The-Black-Spurgeon-Pastor-Mt-Olivet-Baptist-Church-New-York-City
 gutenberg_issued: '2021-04-13'
 gutenberg_type: Text
 identifiers:
